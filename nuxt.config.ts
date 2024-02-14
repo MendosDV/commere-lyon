@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     "@nuxtjs/cloudinary",
   ],
   css: [
-    "bootstrap/dist/css/bootstrap.css"
+    "bootstrap/dist/css/bootstrap.css",
+    "@fortawesome/fontawesome-svg-core/styles.css"
   ]
 })
